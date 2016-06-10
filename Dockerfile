@@ -1,4 +1,4 @@
-# sshd
+# gitlabce-mail
 #
 # VERSION               0.0.2
 
